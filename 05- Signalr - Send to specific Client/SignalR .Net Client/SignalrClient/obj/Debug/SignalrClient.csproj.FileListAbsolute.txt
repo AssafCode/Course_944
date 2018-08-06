@@ -1,0 +1,45 @@
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csprojAssemblyReference.cache
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csproj.CoreCompileInputs.cache
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe.config
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.pdb
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csproj.CopyComplete
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.exe
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe.config
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe.config
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe.config
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\SignalrClient.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\bin\Debug\Newtonsoft.Json.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.exe
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalrClient\obj\Debug\SignalrClient.pdb

@@ -1,0 +1,5 @@
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\Common\bin\Debug\Common.dll
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\Common\bin\Debug\Common.pdb
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\Common\obj\Debug\Common.dll
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\Common\obj\Debug\Common.pdb

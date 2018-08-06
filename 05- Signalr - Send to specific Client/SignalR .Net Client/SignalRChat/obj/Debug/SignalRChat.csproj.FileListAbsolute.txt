@@ -1,0 +1,64 @@
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\SignalRChat.pdb
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Owin.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\dolevsh\Desktop\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll.config
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Owin.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll.config
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\SignalRChat.pdb
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Owin.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Microsoft.Owin.Security.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\bin\Newtonsoft.Json.xml
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.dll
+E:\WCF Web Api\Lesson 1\WebApi Sample\05- Signalr - Send to specific Client\SignalR .Net Client\SignalRChat\obj\Debug\SignalRChat.pdb

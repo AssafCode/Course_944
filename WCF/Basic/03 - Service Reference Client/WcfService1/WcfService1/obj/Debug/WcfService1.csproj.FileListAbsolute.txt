@@ -1,0 +1,8 @@
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\bin\WcfService1.dll.config
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\bin\WcfService1.dll
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\bin\WcfService1.pdb
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\bin\Common.dll
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\bin\Common.pdb
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+F:\WCF Web Api\Lesson 2\WCF Sample\03 - Service Reference Client\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

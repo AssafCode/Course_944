@@ -1,0 +1,10 @@
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\bin\Debug\Client.exe.config
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\bin\Debug\Client.exe
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\bin\Debug\Client.pdb
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.exe
+E:\WCF Web Api\Lesson 3\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.pdb
+M:\944\WCF\Advanced\01 - WCFDuplex Sample\WcfService3\Client\bin\Debug\Client.exe.config
+M:\944\WCF\Advanced\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.exe
+M:\944\WCF\Advanced\01 - WCFDuplex Sample\WcfService3\Client\obj\Debug\Client.pdb
