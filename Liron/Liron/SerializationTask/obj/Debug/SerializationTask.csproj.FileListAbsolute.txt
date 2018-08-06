@@ -1,0 +1,6 @@
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\bin\Debug\SerializationTask.exe
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\bin\Debug\SerializationTask.pdb
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\obj\Debug\SerializationTask.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\obj\Debug\SerializationTask.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\obj\Debug\SerializationTask.exe
+C:\Users\Liron\source\repos\ProgrammingDotNet\SerializationTask\obj\Debug\SerializationTask.pdb

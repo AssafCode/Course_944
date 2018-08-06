@@ -1,0 +1,7 @@
+C:\Users\Liron\source\repos\SerializationDemo\bin\Debug\SerializationDemo.exe
+C:\Users\Liron\source\repos\SerializationDemo\bin\Debug\SerializationDemo.pdb
+C:\Users\Liron\source\repos\SerializationDemo\obj\Debug\SerializationDemo.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\SerializationDemo\obj\Debug\SerializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\SerializationDemo\obj\Debug\SerializationDemo.exe
+C:\Users\Liron\source\repos\SerializationDemo\obj\Debug\SerializationDemo.pdb
+C:\Users\Liron\source\repos\SerializationDemo\bin\Debug\SerializationDemo.exe.config

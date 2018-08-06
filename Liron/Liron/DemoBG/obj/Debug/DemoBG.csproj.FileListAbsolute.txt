@@ -1,0 +1,14 @@
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\bin\Debug\DemoBG.exe
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\bin\Debug\DemoBG.pdb
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\MainWindow.g.cs
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\App.g.cs
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG_MarkupCompile.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG_MarkupCompile.lref
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\MainWindow.baml
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.g.resources
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.Properties.Resources.resources
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.csproj.GenerateResource.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.exe
+C:\Users\Liron\source\repos\ProgrammingDotNet\DemoBG\obj\Debug\DemoBG.pdb
