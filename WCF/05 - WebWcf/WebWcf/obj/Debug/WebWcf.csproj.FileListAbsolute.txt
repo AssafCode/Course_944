@@ -1,0 +1,14 @@
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\bin\WebWcf.dll.config
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\bin\WebWcf.dll
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\bin\WebWcf.pdb
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\obj\Debug\WebWcf.csprojResolveAssemblyReference.cache
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\obj\Debug\WebWcf.csproj.CoreCompileInputs.cache
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\obj\Debug\WebWcf.dll
+E:\WCF Web Api\Lesson 3\05 - WebWcf\WebWcf\obj\Debug\WebWcf.pdb
+M:\944\WCF\05 - WebWcf\WebWcf\bin\WebWcf.dll.config
+M:\944\WCF\05 - WebWcf\WebWcf\bin\WebWcf.dll
+M:\944\WCF\05 - WebWcf\WebWcf\bin\WebWcf.pdb
+M:\944\WCF\05 - WebWcf\WebWcf\obj\Debug\WebWcf.csprojAssemblyReference.cache
+M:\944\WCF\05 - WebWcf\WebWcf\obj\Debug\WebWcf.csproj.CoreCompileInputs.cache
+M:\944\WCF\05 - WebWcf\WebWcf\obj\Debug\WebWcf.dll
+M:\944\WCF\05 - WebWcf\WebWcf\obj\Debug\WebWcf.pdb

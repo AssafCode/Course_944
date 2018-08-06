@@ -1,6 +1,0 @@
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\bin\Debug\DemoAPM.exe
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\bin\Debug\DemoAPM.pdb
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\obj\Debug\DemoAPM.csproj.CoreCompileInputs.cache
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\obj\Debug\DemoAPM.exe
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\obj\Debug\DemoAPM.pdb
-C:\Users\Liron\source\repos\ProgrammingDotNet\DemoAPM\obj\Debug\DemoAPM.csprojAssemblyReference.cache

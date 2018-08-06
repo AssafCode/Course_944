@@ -1,7 +1,0 @@
-C:\Users\Liron\source\repos\WebApplication4\bin\WebApplication4.dll.config
-C:\Users\Liron\source\repos\WebApplication4\bin\WebApplication4.dll
-C:\Users\Liron\source\repos\WebApplication4\bin\WebApplication4.pdb
-C:\Users\Liron\source\repos\WebApplication4\obj\Debug\NewsWebSite.csprojAssemblyReference.cache
-C:\Users\Liron\source\repos\WebApplication4\obj\Debug\NewsWebSite.csproj.CoreCompileInputs.cache
-C:\Users\Liron\source\repos\WebApplication4\obj\Debug\WebApplication4.dll
-C:\Users\Liron\source\repos\WebApplication4\obj\Debug\WebApplication4.pdb

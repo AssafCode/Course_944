@@ -1,0 +1,7 @@
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\bin\WcfOneWay.dll.config
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\bin\WcfOneWay.dll
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\bin\WcfOneWay.pdb
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\obj\Debug\WcfOneWay.csprojAssemblyReference.cache
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\obj\Debug\WcfOneWay.csproj.CoreCompileInputs.cache
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\obj\Debug\WcfOneWay.dll
+M:\944\WCF\00 - WcfOneWay\WcfOneWay\obj\Debug\WcfOneWay.pdb

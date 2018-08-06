@@ -1,6 +1,0 @@
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\bin\Debug\CustomSerializtion.exe
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\bin\Debug\CustomSerializtion.pdb
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\obj\Debug\CustomSerializtion.csprojAssemblyReference.cache
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\obj\Debug\CustomSerializtion.csproj.CoreCompileInputs.cache
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\obj\Debug\CustomSerializtion.exe
-C:\Users\Liron\source\repos\ProgrammingDotNet\CustomSerializtion\obj\Debug\CustomSerializtion.pdb

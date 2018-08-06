@@ -1,6 +1,0 @@
-C:\Users\Liron\source\repos\Streams\obj\Debug\Streams.csproj.CoreCompileInputs.cache
-C:\Users\Liron\source\repos\Streams\bin\Debug\Streams.exe
-C:\Users\Liron\source\repos\Streams\bin\Debug\Streams.pdb
-C:\Users\Liron\source\repos\Streams\obj\Debug\Streams.exe
-C:\Users\Liron\source\repos\Streams\obj\Debug\Streams.pdb
-C:\Users\Liron\source\repos\Streams\obj\Debug\Streams.csprojAssemblyReference.cache

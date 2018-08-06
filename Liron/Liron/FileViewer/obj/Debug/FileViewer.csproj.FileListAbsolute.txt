@@ -1,9 +1,0 @@
-C:\Users\Liron\source\FileViewer\bin\Debug\FileViewer.exe
-C:\Users\Liron\source\FileViewer\bin\Debug\FileViewer.pdb
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.csprojAssemblyReference.cache
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.Properties.Resources.resources
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.csproj.GenerateResource.cache
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.csproj.CoreCompileInputs.cache
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.exe
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.pdb
-C:\Users\Liron\source\FileViewer\obj\Debug\FileViewer.Form1.resources
