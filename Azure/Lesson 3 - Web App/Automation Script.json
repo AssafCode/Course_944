@@ -1,0 +1,529 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_Contoso3_name": {
+            "defaultValue": "Contoso3",
+            "type": "String"
+        },
+        "servers_lesson3dbserver_name": {
+            "defaultValue": "lesson3dbserver",
+            "type": "String"
+        },
+        "serverfarms_ServicePlan8c86bcd4_92d1_name": {
+            "defaultValue": "ServicePlan8c86bcd4-92d1",
+            "type": "String"
+        },
+        "advisors_DropIndex_name": {
+            "defaultValue": "DropIndex",
+            "type": "String"
+        },
+        "databases_lesson3db_name": {
+            "defaultValue": "lesson3db",
+            "type": "String"
+        },
+        "keys_ServiceManaged_name": {
+            "defaultValue": "ServiceManaged",
+            "type": "String"
+        },
+        "advisors_CreateIndex_name": {
+            "defaultValue": "CreateIndex",
+            "type": "String"
+        },
+        "advisors_DefragmentIndex_name": {
+            "defaultValue": "DefragmentIndex",
+            "type": "String"
+        },
+        "auditingPolicies_Default_name": {
+            "defaultValue": "Default",
+            "type": "String"
+        },
+        "advisors_ForceLastGoodPlan_name": {
+            "defaultValue": "ForceLastGoodPlan",
+            "type": "String"
+        },
+        "advisors_DbParameterization_name": {
+            "defaultValue": "DbParameterization",
+            "type": "String"
+        },
+        "encryptionProtector_current_name": {
+            "defaultValue": "current",
+            "type": "String"
+        },
+        "hostNameBindings_contoso3.azurewebsites.net_name": {
+            "defaultValue": "contoso3.azurewebsites.net",
+            "type": "String"
+        },
+        "advisors_DropIndex_name_1": {
+            "defaultValue": "DropIndex",
+            "type": "String"
+        },
+        "advisors_CreateIndex_name_1": {
+            "defaultValue": "CreateIndex",
+            "type": "String"
+        },
+        "auditingPolicies_Default_name_1": {
+            "defaultValue": "Default",
+            "type": "String"
+        },
+        "databases_master_name": {
+            "defaultValue": "master",
+            "type": "String"
+        },
+        "geoBackupPolicies_Default_name": {
+            "defaultValue": "Default",
+            "type": "String"
+        },
+        "advisors_DefragmentIndex_name_1": {
+            "defaultValue": "DefragmentIndex",
+            "type": "String"
+        },
+        "auditingPolicies_Default_name_2": {
+            "defaultValue": "Default",
+            "type": "String"
+        },
+        "geoBackupPolicies_Default_name_1": {
+            "defaultValue": "Default",
+            "type": "String"
+        },
+        "advisors_ForceLastGoodPlan_name_1": {
+            "defaultValue": "ForceLastGoodPlan",
+            "type": "String"
+        },
+        "advisors_DbParameterization_name_1": {
+            "defaultValue": "DbParameterization",
+            "type": "String"
+        },
+        "transparentDataEncryption_current_name": {
+            "defaultValue": "current",
+            "type": "String"
+        },
+        "transparentDataEncryption_current_name_1": {
+            "defaultValue": "current",
+            "type": "String"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver'.",
+            "type": "Microsoft.Sql/servers",
+            "kind": "v12.0",
+            "name": "[parameters('servers_lesson3dbserver_name')]",
+            "apiVersion": "2015-05-01-preview",
+            "location": "westeurope",
+            "scale": null,
+            "properties": {
+                "administratorLogin": "dolev",
+                "version": "12.0"
+            },
+            "dependsOn": []
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Web/serverfarms/ServicePlan8c86bcd4-92d1'.",
+            "type": "Microsoft.Web/serverfarms",
+            "sku": {
+                "name": "S1",
+                "tier": "Standard",
+                "size": "S1",
+                "family": "S",
+                "capacity": 1
+            },
+            "kind": "app",
+            "name": "[parameters('serverfarms_ServicePlan8c86bcd4_92d1_name')]",
+            "apiVersion": "2016-09-01",
+            "location": "Central US",
+            "scale": null,
+            "properties": {
+                "name": "[parameters('serverfarms_ServicePlan8c86bcd4_92d1_name')]",
+                "workerTierName": null,
+                "adminSiteName": null,
+                "hostingEnvironmentProfile": null,
+                "perSiteScaling": false,
+                "reserved": false,
+                "targetWorkerCount": 0,
+                "targetWorkerSizeId": 0
+            },
+            "dependsOn": []
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Web/sites/Contoso3'.",
+            "type": "Microsoft.Web/sites",
+            "kind": "app",
+            "name": "[parameters('sites_Contoso3_name')]",
+            "apiVersion": "2016-08-01",
+            "location": "Central US",
+            "scale": null,
+            "properties": {
+                "enabled": true,
+                "hostNameSslStates": [
+                    {
+                        "name": "[concat(parameters('sites_Contoso3_name'),'contoso3.azurewebsites.net')]",
+                        "sslState": "Disabled",
+                        "virtualIP": null,
+                        "thumbprint": null,
+                        "toUpdate": null,
+                        "hostType": "Standard"
+                    },
+                    {
+                        "name": "[concat(parameters('sites_Contoso3_name'),'contoso3.scm.azurewebsites.net')]",
+                        "sslState": "Disabled",
+                        "virtualIP": null,
+                        "thumbprint": null,
+                        "toUpdate": null,
+                        "hostType": "Repository"
+                    }
+                ],
+                "serverFarmId": "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_ServicePlan8c86bcd4_92d1_name'))]",
+                "reserved": false,
+                "siteConfig": null,
+                "scmSiteAlsoStopped": false,
+                "hostingEnvironmentProfile": null,
+                "clientAffinityEnabled": true,
+                "clientCertEnabled": false,
+                "hostNamesDisabled": false,
+                "containerSize": 0,
+                "dailyMemoryTimeQuota": 0,
+                "cloningInfo": null
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Web/serverfarms', parameters('serverfarms_ServicePlan8c86bcd4_92d1_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/advisors/CreateIndex'.",
+            "type": "Microsoft.Sql/servers/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('advisors_CreateIndex_name'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/advisors/DropIndex'.",
+            "type": "Microsoft.Sql/servers/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('advisors_DropIndex_name'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/advisors/DbParameterization'.",
+            "type": "Microsoft.Sql/servers/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('advisors_DbParameterization_name'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/advisors/DefragmentIndex'.",
+            "type": "Microsoft.Sql/servers/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('advisors_DefragmentIndex_name'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/advisors/ForceLastGoodPlan'.",
+            "type": "Microsoft.Sql/servers/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('advisors_ForceLastGoodPlan_name'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/auditingPolicies/Default'.",
+            "type": "Microsoft.Sql/servers/auditingPolicies",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('auditingPolicies_Default_name'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "auditingState": "New",
+                "eventTypesToAudit": "PlainSQL_Success,PlainSQL_Failure,ParameterizedSQL_Success,ParameterizedSQL_Failure,StoredProcedure_Success,StoredProcedure_Failure,Login_Success,Login_Failure,TransactionManagement_Success,TransactionManagement_Failure",
+                "storageAccountName": null,
+                "storageAccountKey": null,
+                "storageAccountSecondaryKey": null,
+                "storageTableEndpoint": null,
+                "storageAccountResourceGroupName": null,
+                "storageAccountSubscriptionId": null,
+                "fullAuditLogsTableName": "SQLDBAuditLogsLesson3dbserver",
+                "auditLogsTableName": "Lesson3dbserver",
+                "retentionDays": "0"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db'.",
+            "type": "Microsoft.Sql/servers/databases",
+            "sku": {
+                "name": "S0",
+                "tier": "Standard"
+            },
+            "kind": "v12.0,user",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'))]",
+            "apiVersion": "2017-03-01-preview",
+            "location": "westeurope",
+            "scale": null,
+            "properties": {
+                "collation": "SQL_Latin1_General_CP1_CI_AS",
+                "maxSizeBytes": 268435456000,
+                "catalogCollation": "SQL_Latin1_General_CP1_CI_AS",
+                "zoneRedundant": false
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/encryptionProtector/current'.",
+            "type": "Microsoft.Sql/servers/encryptionProtector",
+            "kind": "servicemanaged",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('encryptionProtector_current_name'))]",
+            "apiVersion": "2015-05-01-preview",
+            "scale": null,
+            "properties": {
+                "serverKeyName": "ServiceManaged",
+                "serverKeyType": "ServiceManaged"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/keys/ServiceManaged'.",
+            "type": "Microsoft.Sql/servers/keys",
+            "kind": "servicemanaged",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('keys_ServiceManaged_name'))]",
+            "apiVersion": "2015-05-01-preview",
+            "scale": null,
+            "properties": {
+                "serverKeyType": "[parameters('keys_ServiceManaged_name')]"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/advisors/CreateIndex'.",
+            "type": "Microsoft.Sql/servers/databases/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('advisors_CreateIndex_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/advisors/DropIndex'.",
+            "type": "Microsoft.Sql/servers/databases/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('advisors_DropIndex_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/advisors/DbParameterization'.",
+            "type": "Microsoft.Sql/servers/databases/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('advisors_DbParameterization_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/advisors/DefragmentIndex'.",
+            "type": "Microsoft.Sql/servers/databases/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('advisors_DefragmentIndex_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/advisors/ForceLastGoodPlan'.",
+            "type": "Microsoft.Sql/servers/databases/advisors",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('advisors_ForceLastGoodPlan_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "scale": null,
+            "properties": {
+                "autoExecuteValue": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/auditingPolicies/Default'.",
+            "type": "Microsoft.Sql/servers/databases/auditingPolicies",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('auditingPolicies_Default_name_2'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "auditingState": "New",
+                "eventTypesToAudit": "PlainSQL_Success,PlainSQL_Failure,ParameterizedSQL_Success,ParameterizedSQL_Failure,StoredProcedure_Success,StoredProcedure_Failure,Login_Success,Login_Failure,TransactionManagement_Success,TransactionManagement_Failure",
+                "storageAccountName": null,
+                "storageAccountKey": null,
+                "storageAccountSecondaryKey": null,
+                "storageTableEndpoint": null,
+                "storageAccountResourceGroupName": null,
+                "storageAccountSubscriptionId": null,
+                "useServerDefault": "Enabled",
+                "fullAuditLogsTableName": "SQLDBAuditLogsLesson3dbserverLesson3db",
+                "auditLogsTableName": "Lesson3dbserverLesson3db",
+                "retentionDays": "0"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/geoBackupPolicies/Default'.",
+            "type": "Microsoft.Sql/servers/databases/geoBackupPolicies",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('geoBackupPolicies_Default_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "state": "Enabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/lesson3db/transparentDataEncryption/current'.",
+            "type": "Microsoft.Sql/servers/databases/transparentDataEncryption",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_lesson3db_name'), '/', parameters('transparentDataEncryption_current_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "status": "Enabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]",
+                "[resourceId('Microsoft.Sql/servers/databases', parameters('servers_lesson3dbserver_name'), parameters('databases_lesson3db_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/master/auditingPolicies/Default'.",
+            "type": "Microsoft.Sql/servers/databases/auditingPolicies",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_master_name'), '/', parameters('auditingPolicies_Default_name_1'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "auditingState": "New",
+                "eventTypesToAudit": "PlainSQL_Success,PlainSQL_Failure,ParameterizedSQL_Success,ParameterizedSQL_Failure,StoredProcedure_Success,StoredProcedure_Failure,Login_Success,Login_Failure,TransactionManagement_Success,TransactionManagement_Failure",
+                "storageAccountName": null,
+                "storageAccountKey": null,
+                "storageAccountSecondaryKey": null,
+                "storageTableEndpoint": null,
+                "storageAccountResourceGroupName": null,
+                "storageAccountSubscriptionId": null,
+                "useServerDefault": "Enabled",
+                "fullAuditLogsTableName": "SQLDBAuditLogsLesson3dbserverMaster",
+                "auditLogsTableName": "Lesson3dbserverMaster",
+                "retentionDays": "0"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/master/geoBackupPolicies/Default'.",
+            "type": "Microsoft.Sql/servers/databases/geoBackupPolicies",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_master_name'), '/', parameters('geoBackupPolicies_Default_name'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "state": "Enabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Sql/servers/lesson3dbserver/databases/master/transparentDataEncryption/current'.",
+            "type": "Microsoft.Sql/servers/databases/transparentDataEncryption",
+            "name": "[concat(parameters('servers_lesson3dbserver_name'), '/', parameters('databases_master_name'), '/', parameters('transparentDataEncryption_current_name'))]",
+            "apiVersion": "2014-04-01",
+            "location": "West Europe",
+            "scale": null,
+            "properties": {
+                "status": "Disabled"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Sql/servers', parameters('servers_lesson3dbserver_name'))]"
+            ]
+        },
+        {
+            "comments": "Generalized from resource: '/subscriptions/f8096420-181f-4824-8e1c-cc767e346b38/resourceGroups/Lesson3/providers/Microsoft.Web/sites/Contoso3/hostNameBindings/contoso3.azurewebsites.net'.",
+            "type": "Microsoft.Web/sites/hostNameBindings",
+            "name": "[concat(parameters('sites_Contoso3_name'), '/', parameters('hostNameBindings_contoso3.azurewebsites.net_name'))]",
+            "apiVersion": "2016-08-01",
+            "location": "Central US",
+            "scale": null,
+            "properties": {
+                "siteName": "Contoso3",
+                "domainId": null,
+                "hostNameType": "Verified"
+            },
+            "dependsOn": [
+                "[resourceId('Microsoft.Web/sites', parameters('sites_Contoso3_name'))]"
+            ]
+        }
+    ]
+}
