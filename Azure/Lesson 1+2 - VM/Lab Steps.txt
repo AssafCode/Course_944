@@ -1,0 +1,24 @@
+Create Resource Group
+Create Virtual Network
+Create Storage Account (connect to virtual network)
+Create virtual machine (connect to virtual network and storage account)
+VM name	- "Visual Studio Community 2017 on Windows Server 2016 (x64)"
+Add disk to the vm with storage account - disks from the VM
+Open the VM (press ok on certificate and shared networks)
+Format the new disk - "Create and format hard disk partitions"
+Download files to the new disk
+
+
+
+
+
+Problems
+
+When adding disk to the vm an access denied page is shown.
+
+Solution
+
+Add my computer ip to the storage account's secrity and virtual network settings.
+
+(Need to be set for new ip with the automation script too).
+
