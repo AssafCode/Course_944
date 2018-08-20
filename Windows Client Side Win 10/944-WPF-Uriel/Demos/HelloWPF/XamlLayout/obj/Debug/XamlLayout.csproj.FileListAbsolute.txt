@@ -1,0 +1,15 @@
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\bin\Debug\XamlLayout.exe.config
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\bin\Debug\XamlLayout.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\bin\Debug\XamlLayout.pdb
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.csprojAssemblyReference.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\MainWindow.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\App.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout_MarkupCompile.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout_MarkupCompile.lref
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\MainWindow.baml
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.g.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.Properties.Resources.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.csproj.GenerateResource.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.csproj.CoreCompileInputs.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\XamlLayout\obj\Debug\XamlLayout.pdb

@@ -1,0 +1,74 @@
+﻿<Window x:Class="XamlLayout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XamlLayout"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.31*"/>
+            <ColumnDefinition Width="0.91*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="12*"/>
+        </Grid.RowDefinitions>
+        
+        <Ellipse Fill="Red"  Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" />
+        <Ellipse Fill="Yellow"  />
+    </Grid>-->
+
+
+
+    <!--<StackPanel>
+        <Ellipse Fill="Red"  Height="10" />
+        <Ellipse Fill="Yellow" Height="10" />
+    </StackPanel>-->
+
+
+    <!-- dock itema to corners-->
+
+    <!--<DockPanel LastChildFill="False">
+        
+        <Ellipse Fill="Red"  Height="50" Width="50" DockPanel.Dock="Left" />
+        
+        <Ellipse Fill="Blue" Height="50" Width="50"  DockPanel.Dock="Right"/>
+
+        <Ellipse Fill="Green" Height="50" Width="50"  DockPanel.Dock="top"/>
+
+        <Ellipse Fill="Black"  Height="50" Width="50" DockPanel.Dock="Bottom" />
+
+    </DockPanel>-->
+
+
+    <!--<Canvas>
+
+        <Ellipse Fill="Blue" Height="50" Width="50"  Canvas.Left="112" Canvas.Bottom="34" />
+    </Canvas>-->
+
+
+    <!--<UniformGrid  Name="uni" >
+        <Ellipse Fill="Blue" Height="50" Width="50"   />
+    </UniformGrid>-->
+    <Grid>
+        <StackPanel>
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center"  Margin="5" Background="Blue">Hello Layout</Button>
+
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center"  Margin="5" Background="Blue">Hello Layout</Button>
+
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center"  Margin="5" Background="Blue">Hello Layout</Button>
+
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center"  Margin="5" Background="Blue">Hello Layout</Button>
+        </StackPanel>
+
+        <Grid>
+
+            <Button VerticalAlignment="Bottom" HorizontalAlignment="Center"  Margin="0,110,0,0">Hello Layout</Button>
+        </Grid>
+    </Grid>
+</Window>

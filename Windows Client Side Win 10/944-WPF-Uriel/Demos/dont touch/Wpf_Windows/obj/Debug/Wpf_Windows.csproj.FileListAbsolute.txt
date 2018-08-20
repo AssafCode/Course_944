@@ -1,0 +1,7 @@
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Wpf_Windows.csprojAssemblyReference.cache
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Message.g.cs
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Window1.g.cs
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Window2.g.cs
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\App.g.cs
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Wpf_Windows_MarkupCompile.cache
+M:\944\944-WPF-Uriel\Demos\custom messageBox\Wpf_Windows\obj\Debug\Wpf_Windows_MarkupCompile.lref
