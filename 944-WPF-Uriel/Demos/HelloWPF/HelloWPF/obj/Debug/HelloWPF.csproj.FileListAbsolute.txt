@@ -1,0 +1,14 @@
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojAssemblyReference.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.CoreCompileInputs.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb

@@ -1,0 +1,17 @@
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\bin\Debug\Wpf_Windows.exe.config
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\bin\Debug\Wpf_Windows.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\bin\Debug\Wpf_Windows.pdb
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.csprojAssemblyReference.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Window1.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Window2.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\App.g.cs
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows_MarkupCompile.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows_MarkupCompile.lref
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Window1.baml
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Window2.baml
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.g.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.Properties.Resources.resources
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.csproj.GenerateResource.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.csproj.CoreCompileInputs.cache
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.exe
+M:\944\944-WPF-Uriel\Demos\HelloWPF\Wpf_Windows\obj\Debug\Wpf_Windows.pdb
