@@ -1,0 +1,261 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Providers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\WebGrease.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Providers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\WebGrease.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.pdb
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll.config
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\TableStorage.pdb
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Antlr3.Runtime.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Web.Infrastructure.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Optimization.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Providers.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\WebGrease.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\EntityFramework.SqlServer.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Azure.KeyVault.Core.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Edm.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.OData.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.Data.Services.Client.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.pdb
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Microsoft.WindowsAzure.Storage.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\Newtonsoft.Json.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Net.Http.Formatting.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Spatial.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Http.WebHost.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Helpers.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Mvc.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.Razor.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Deployment.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\System.Web.WebPages.Razor.xml
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\de\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\es\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\fr\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\it\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ja\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ko\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\ru\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hans\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\bin\zh-Hant\System.Spatial.resources.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csprojAssemblyReference.cache
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CoreCompileInputs.cache
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.csproj.CopyComplete
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.dll
+E:\487C Per Lesson\4. Storage Account\Ender Demo Files\TableStorage\TableStorage\obj\Debug\TableStorage.pdb

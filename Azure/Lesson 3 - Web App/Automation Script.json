@@ -115,7 +115,8 @@
             "scale": null,
             "properties": {
                 "administratorLogin": "dolev",
-                "version": "12.0"
+				"administratorLoginPassword":"Sh198742"
+,                "version": "12.0"
             },
             "dependsOn": []
         },

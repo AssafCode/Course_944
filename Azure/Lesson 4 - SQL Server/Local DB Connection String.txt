@@ -1,0 +1,1 @@
+Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=EventsContextModule4Lab;Pooling=True;Integrated Security=True 
