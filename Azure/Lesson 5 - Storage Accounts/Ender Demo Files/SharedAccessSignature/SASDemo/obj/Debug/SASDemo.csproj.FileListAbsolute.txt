@@ -1,0 +1,186 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.dll.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Antlr3.Runtime.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Web.Optimization.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Web.Providers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\WebGrease.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\MonAgentListener.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Mono.Math.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Mono.Math.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.dll.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\SASDemo.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Antlr3.Runtime.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Web.Optimization.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Web.Providers.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\WebGrease.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\MonAgentListener.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Mono.Math.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\Mono.Math.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\SharedAccessSignature\SASDemo\obj\Debug\SASDemo.pdb

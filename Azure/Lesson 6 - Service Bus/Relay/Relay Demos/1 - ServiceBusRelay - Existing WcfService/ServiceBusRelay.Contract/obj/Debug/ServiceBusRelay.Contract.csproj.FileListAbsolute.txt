@@ -1,0 +1,12 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\bin\Debug\ServiceBusRelay.Contract.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Solution\ServiceBusRelay\ServiceBusRelay.Contract\obj\Debug\ServiceBusRelay.Contract.pdb

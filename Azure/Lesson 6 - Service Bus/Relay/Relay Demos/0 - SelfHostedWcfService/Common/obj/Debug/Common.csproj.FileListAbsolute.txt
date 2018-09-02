@@ -1,0 +1,12 @@
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\bin\Debug\Common.dll
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\bin\Debug\Common.pdb
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\obj\Debug\Common.dll
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\Common\obj\Debug\Common.pdb
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\bin\Debug\Common.dll
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\bin\Debug\Common.pdb
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\obj\Debug\Common.dll
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\Common\obj\Debug\Common.pdb

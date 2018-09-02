@@ -1,0 +1,120 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.exe.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Worker.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\Lesson 9\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Worker.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.exe.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\WorkingWithAzureQueues.Worker.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\System.Spatial.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\System.Spatial.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Receiver.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Worker.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\4. Storage Account\Ender Demo Files\WorkingWithAzureQueues\WorkingWithAzureQueues.Worker\obj\Debug\WorkingWithAzureQueues.Worker.pdb

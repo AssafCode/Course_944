@@ -1,0 +1,20 @@
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\bin\WcfApplication.dll.config
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\bin\WcfApplication.dll
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\bin\WcfApplication.pdb
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\bin\Common.dll
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\bin\Common.pdb
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csproj.CopyComplete
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.dll
+C:\Users\Dolev\Desktop\WCF Web Api Course\Lesson 4\07 - Self Hosted Wcf Service\SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.pdb
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\bin\WcfApplication.dll.config
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\bin\WcfApplication.dll
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\bin\WcfApplication.pdb
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\bin\Common.dll
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\bin\Common.pdb
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csprojAssemblyReference.cache
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csproj.CoreCompileInputs.cache
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.csproj.CopyComplete
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.dll
+E:\487 PArtial\5. Service Bus\Relay Demos\0 - SelfHostedWcfService\WcfApplication\obj\Debug\WcfApplication.pdb

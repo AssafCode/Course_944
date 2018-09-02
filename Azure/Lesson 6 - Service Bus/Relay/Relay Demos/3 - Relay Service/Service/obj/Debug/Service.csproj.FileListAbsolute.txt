@@ -1,0 +1,16 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Service.exe.config
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Service.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Service.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Common.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Common.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\obj\Debug\Service.exe
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Service\obj\Debug\Service.pdb

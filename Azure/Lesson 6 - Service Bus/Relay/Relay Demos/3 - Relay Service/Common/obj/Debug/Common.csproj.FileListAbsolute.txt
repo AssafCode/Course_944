@@ -1,0 +1,12 @@
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\bin\Debug\Common.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\bin\Debug\Common.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\obj\Debug\Common.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Relay Service\RelayTcp\Common\obj\Debug\Common.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\bin\Debug\Common.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\bin\Debug\Common.pdb
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\obj\Debug\Common.dll
+C:\Users\Dolev\Desktop\Azure Course\487C Per Lesson\5. Service Bus\Made By Dolev\3 - Relay Service\Common\obj\Debug\Common.pdb
